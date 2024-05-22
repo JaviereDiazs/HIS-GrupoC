@@ -86,3 +86,9 @@ p {
     color: #ffffff;
     margin-bottom: 35px;
 }
+
+.img-home {
+    width: 75px;
+    height: 75px;
+    padding: 2px;
+}
