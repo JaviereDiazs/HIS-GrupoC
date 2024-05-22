@@ -16,6 +16,11 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 .header {
     background-color: #3d19b1;
     min-height: 70vh;
@@ -62,7 +67,7 @@ p {
 
 .header-txt h1 {
     font-size: 50px;
-    line-height: 150px;
+    line-height: 100px;
     color: #ffffff;
     margin-bottom: 25px;
 }
